@@ -1,0 +1,47 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "af19d99b7779840b262d32aab1b56e3ee7fa3189f3b304a2c9c18177c00b5895"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "Django": {
+            "version": "==1.10.6"
+        },
+        "Flask": {
+            "version": "==0.12"
+        },
+        "Jinja2": {
+            "version": "==2.9.5"
+        },
+        "MarkupSafe": {
+            "version": "==1.0"
+        },
+        "Werkzeug": {
+            "version": "==0.12.1"
+        },
+        "click": {
+            "version": "==6.7"
+        },
+        "dj-database-url": {
+            "version": "==0.4.2"
+        },
+        "itsdangerous": {
+            "version": "==0.24"
+        },
+        "psycopg2": {
+            "version": "==2.7.1"
+        },
+        "whitenoise": {
+            "version": "==3.3.0"
+        }
+    },
+    "develop": {}
+}
