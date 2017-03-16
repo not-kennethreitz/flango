@@ -5,7 +5,7 @@ An utterly fantastic project starter template for Django 1.10, using Flask as a 
 ## How it works
 
 - `frontend.py` contains your Flask application, which is used for your frontend.
-- The django applicaiton is routed to `/admin`.
+- The django application is routed to `/admin`.
 
 ## Features
 
