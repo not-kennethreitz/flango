@@ -19,7 +19,7 @@ An utterly fantastic project starter template for Django 1.10, using Flask as a 
 To use this project, follow these steps:
 
 1. Create your working environment.
-2. Install Django and Flask (`$ pipenv install`)
+2. Install Django and Flask (`$ pipenv install --no-hashes`)
 3. Create a new project using this template
 
 ## Creating Your Project
