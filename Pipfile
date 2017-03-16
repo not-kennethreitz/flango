@@ -8,3 +8,6 @@ dj-database-url = "*"
 psycopg2 = "*"
 Django = "*"
 Flask = "*"
+
+[requires]
+python_version = "3.6"
