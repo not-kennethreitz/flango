@@ -1,6 +1,6 @@
 # Flango Starter Template
 
-An utterly fantastic project starter template for Django 1.10, using Flask as a frontend.
+An utterly fantastic project starter template for Django 2.0, using Flask as a frontend.
 
 ## How it works
 
@@ -42,11 +42,6 @@ You can replace ``helloworld`` with your desired project name.
     $ git push heroku master
 
     $ heroku run python manage.py migrate
-
-## Using Python 2.7?
-
-Just update `runtime.txt` to `python-2.7.13` (no trailing spaces or newlines!).
-
 
 ## License: MIT
 
